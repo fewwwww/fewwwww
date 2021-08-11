@@ -1,9 +1,9 @@
 ```javascript
 const SuningYao = {
-  🏫: 'New York University',
+  👨‍🎓: 'New York University',
   🏢: [UnionPay, Microsoft AIoT Labs],
   💻: [React, Vue, ThreeJS, Rust, Solidity],
-  🎮: ['🏋🏼‍♂️', '🎾', '🎤'],
+  🎮: ['🦾', '🎾', '🎤'],
   ☁️: {
     portfolio: 'suningyao.com',
     blog: 'blog.suningyao.com'
