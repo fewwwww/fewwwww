@@ -1,4 +1,4 @@
-```
+```javascript
 const SuningYao = {
   edu: ['New York University'],
   work: ['UnionPay', 'Microsoft AIoT Labs'],
