@@ -1,9 +1,9 @@
 ```javascript
 const SuningYao = {
-  edu: ['New York University'],
-  work: ['UnionPay', 'Microsoft AIoT Labs'],
-  tech: ['React', 'Vue', 'Three.js', 'Rust', 'Solidity'],
-  hobby: ['bodybuilding', 'tennis', 'rap'],
+  edu: 'New York University',
+  work: [UnionPay, Microsoft AIoT Labs],
+  tech: [React, Vue, Three.js, Rust, Solidity],
+  hobby: [bodybuilding, tennis, rap],
   site: {
     portfolio: 'suningyao.com',
     blog: 'blog.suningyao.com'
