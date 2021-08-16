@@ -5,7 +5,7 @@ const SuningYao = {
   💻: [React, Vue, ThreeJS, Rust, Solidity],
   🎮: ['🦾', '🎾', '🎤'],
   ☁️: {
-    // if you like shorter link, try `sny.is`.
+    // if u like shorter link, try `sny.is`.
     portfolio: 'suningyao.com',
     blog: 'blog.suningyao.com'
   },
