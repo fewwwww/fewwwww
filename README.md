@@ -7,7 +7,7 @@ const SuningYao = {
   ☁️: {
     // if u like shorter link, try `sny.is`.
     portfolio: 'suningyao.com',
-    blog: 'blog.suningyao.com',
+    blog: 'blog.suningyao.com'
   },
   📧: {
     wechat: 'ysnysn1',
