@@ -6,7 +6,8 @@ const SuningYao = {
   🎮: [
     '🦾 (Certificated fitness trainer)',
     '🎤 (Rapper with > 1 million play times)',
-    '🎾 (Tennis racquet collector)'],
+    '🎾 (Tennis racquet collector)'
+  ],
   ☁️: {
     // if u like shorter link, try `sny.is`.
     portfolio: 'suningyao.com',
