@@ -1,7 +1,7 @@
 ```javascript
 const SuningYao = {
   👨‍🎓: 'New York University',
-  🏢: [Foresight Ventures, Google, UnionPay, Microsoft AIoT Labs, everPay, ArDrive],
+  🏢: [Foresight Ventures, Google, UnionPay, Microsoft AIoT Labs, EverPay, ArDrive],
   💻: [React, Vue, ThreeJS, Rust, Solidity],
   🎮: [
     '🦾 (Certificated fitness trainer)',
