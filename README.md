@@ -9,10 +9,9 @@ const SuningYao = {
     '🎾 (Tennis racquet collector)'
   ],
   ☁️: {
-    // if u like shorter link, try `sny.is`.
+    linktree: 'sny.is',
     portfolio: 'suningyao.com',
     blog: 'blog.suningyao.com',
-    investment: 'suning.vc'
   },
   📧: {
     wechat: 'ysnysn1',
