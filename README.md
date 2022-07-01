@@ -18,7 +18,7 @@ const SuningYao = {
     email: 'sy2940@nyu.edu'
   }
   💼: (résumé) => {
-    window.location.replace('https://fewwwww.github.io/resume')
+    window.location.replace('https://resume.suningyao.com')
     window.location.replace('https://fewwwww.github.io/resume-Chinese')
   },
   🏫: [WebAssembly, Cryptography, Font Rendering]
