@@ -21,6 +21,6 @@ const SuningYao = {
     window.location.replace('https://fewwwww.github.io/resume')
     window.location.replace('https://fewwwww.github.io/resume-Chinese')
   },
-  🏫: [WASM, Cryptography, Font Rendering]
+  🏫: [WebAssembly, Cryptography, Font Rendering]
 }
 ```
