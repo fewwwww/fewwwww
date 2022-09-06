@@ -5,7 +5,7 @@ const SuningYao = {
   💻: [React, Vue, JavaScript, TypeScript, ThreeJS],
   🎮: [
     '🦾 (Certificated fitness trainer)',
-    '🎤 (Rapper with > 1 million play times)',
+    '🎤 (Rapper with > 2 million play times)',
     '🎾 (Tennis racquet collector)'
   ],
   ☁️: {
@@ -15,7 +15,7 @@ const SuningYao = {
   },
   📧: {
     wechat: 'ysnysn1',
-    email: 'sy2940@nyu.edu'
+    email: 'yaosuning@gmail.com'
   }
   💼: (résumé) => {
     window.location.replace('https://resume.suningyao.com')
