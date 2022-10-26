@@ -8,7 +8,7 @@ const SuningYao = {
     '🎤 (Rapper with > 2 million play times)',
     '🎾 (Tennis racquet collector)'
   ],
-  ☁️: {
+  ⛓️: {
     linktree: 'sny.is',
     portfolio: 'suningyao.com',
     blog: 'blog.suningyao.com',
