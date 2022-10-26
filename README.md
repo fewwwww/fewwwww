@@ -18,7 +18,7 @@ const SuningYao = {
     email: 'yaosuning@gmail.com'
   }
   💼: (résumé) => {
-    window.location.replace('https://resume.suningyao.com'),
+    window.location.replace('https://resume.suningyao.com')
     window.location.replace('https://fewwwww.github.io/resume-Chinese')
   }
 }
