@@ -2,7 +2,7 @@
 const SuningYao = {
   👨‍🎓: 'New York University',
   🏢: [Hyper Oracle, Foresight Ventures, Google, UnionPay],
-  💻: [React, Vue, JavaScript, TypeScript, C++, ThreeJS],
+  💻: [React, Vue, JavaScript, circom, TypeScript, C++, ThreeJS],
   🎮: [
     '🦾 (Certificated fitness trainer)',
     '🎤 (Rapper with > 2 million play times)',
