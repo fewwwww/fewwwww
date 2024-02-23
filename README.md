@@ -1,7 +1,7 @@
 ```javascript
 const SuningYao = {
   👨‍🎓: 'New York University',
-  🏢: [Hyper Oracle, Foresight Ventures, Google, UnionPay],
+  🏢: [ORA, Foresight Ventures, Google, UnionPay],
   🎮: [
     '🦾 (Certificated fitness trainer)',
     '🎤 (Rapper with > 2 million play times)',
